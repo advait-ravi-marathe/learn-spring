@@ -1,0 +1,16 @@
+Spring container: Manages Spring beans and their life cycle
+
+Two types of container -
+
+    1. Bean factory:
+       Basic Spring container.
+
+    2. Application context:
+       Advanced Spring container with enterprise-specific features
+        - Easy to use in web apps
+        - Easy internalization
+        - Easy integration with Spring AOP
+
+Most enterprise apps use ApplicationContext
+
+    - Recommended for web apps, web services - REST API and microservices.
