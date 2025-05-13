@@ -10,14 +10,13 @@ class Pojo {
 }
 
 class JavaBean implements Serializable {
+    private String text;
+    private int number;
+
     //1. Should have public no argument constructor
     public JavaBean() {
 
     }
-
-    private String text;
-
-    private int number;
 
     //2. Should have getters and setters
     public String getText() {
