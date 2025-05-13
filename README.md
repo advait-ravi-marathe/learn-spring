@@ -1,2 +1,1 @@
-# learn-spring
-Spring framework using Java
+# Spring framework using Java
