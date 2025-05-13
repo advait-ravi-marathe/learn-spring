@@ -7,10 +7,6 @@ class Pojo {
     private String text;
 
     private int number;
-
-    public String toString(){
-        return STR."\{text}:\{number}";
-    }
 }
 
 class JavaBean implements Serializable {
