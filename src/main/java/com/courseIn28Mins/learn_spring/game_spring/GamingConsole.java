@@ -12,7 +12,10 @@ package com.courseIn28Mins.learn_spring.game_spring;
 
 public interface GamingConsole {
     void up();
+
     void down();
+
     void left();
+
     void right();
 }
