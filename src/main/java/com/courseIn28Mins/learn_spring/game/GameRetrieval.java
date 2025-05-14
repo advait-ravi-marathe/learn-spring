@@ -1,4 +1,4 @@
-package com.courseIn28Mins.learn_spring.game_spring;
+package com.courseIn28Mins.learn_spring.game;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
