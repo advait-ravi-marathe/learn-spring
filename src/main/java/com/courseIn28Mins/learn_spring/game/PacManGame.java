@@ -1,5 +1,6 @@
 package com.courseIn28Mins.learn_spring.game;
 
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 

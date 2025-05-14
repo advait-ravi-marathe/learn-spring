@@ -12,15 +12,14 @@ import org.springframework.context.annotation.Configuration;
 public class GameLauncher {
 
     //Step 1: Creation of object
-    //This is taken care by @Component tag added in PacMan class
+    //This is taken care by @Component tag added in all game classes
 
     public static void main(String[] args) {
 
         //1. Launch a spring context
         try (var context = new AnnotationConfigApplicationContext(GameLauncher.class)) {
 
-            //2. Retrieving bean's up method
-            context.getBean(GamingConsole.class).up();
+            //2. Retrieving bean's run method
             context.getBean(GameRunner.class).run();
 
         }
