@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb254d88-b2c1-4b73-b420-e95024087dc4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/src/main/java/com/courseIn28Mins/learn_spring/Java_Bean_VS_POJO_VS_Spring_Bean.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/src/main/java/com/courseIn28Mins/learn_spring/SpringBeanVSJavaBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/src/main/java/com/courseIn28Mins/learn_spring/Spring_Container.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/src/main/java/com/courseIn28Mins/learn_spring/game/ContraGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/src/main/java/com/courseIn28Mins/learn_spring/game/GameRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/src/main/java/com/courseIn28Mins/learn_spring/game/GamingConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/src/main/java/com/courseIn28Mins/learn_spring/game/MarioGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/src/main/java/com/courseIn28Mins/learn_spring/game/PacManGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/src/main/java/com/courseIn28Mins/learn_spring/game_spring/ContraGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/src/main/java/com/courseIn28Mins/learn_spring/game_spring/GameConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/src/main/java/com/courseIn28Mins/learn_spring/game_spring/GameRetrieval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/src/main/java/com/courseIn28Mins/learn_spring/game_spring/GameRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/src/main/java/com/courseIn28Mins/learn_spring/game_spring/GamingConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/src/main/java/com/courseIn28Mins/learn_spring/game_spring/MarioGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/src/main/java/com/courseIn28Mins/learn_spring/game_spring/PacManGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/src/test/java/com/courseIn28Mins/learn_spring/LearnSpringApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/target/classes/com/courseIn28Mins/learn_spring/JavaBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/target/classes/com/courseIn28Mins/learn_spring/Pojo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/target/classes/com/courseIn28Mins/learn_spring/SpringBeanVSJavaBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/target/classes/com/courseIn28Mins/learn_spring/game/AppGamingBasicJava.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/target/classes/com/courseIn28Mins/learn_spring/game/ContraGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/target/classes/com/courseIn28Mins/learn_spring/game/GameRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/target/classes/com/courseIn28Mins/learn_spring/game/GamingConsole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/target/classes/com/courseIn28Mins/learn_spring/game/MarioGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/target/classes/com/courseIn28Mins/learn_spring/game/PacManGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/target/classes/com/courseIn28Mins/learn_spring/game_spring/ContraGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/target/classes/com/courseIn28Mins/learn_spring/game_spring/GameConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/target/classes/com/courseIn28Mins/learn_spring/game_spring/GameRetrieval.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/target/classes/com/courseIn28Mins/learn_spring/game_spring/GameRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/target/classes/com/courseIn28Mins/learn_spring/game_spring/GamingConsole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/target/classes/com/courseIn28Mins/learn_spring/game_spring/MarioGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/target/classes/com/courseIn28Mins/learn_spring/game_spring/PacManGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/target/classes/com/courseIn28Mins/learn_spring/person/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/target/classes/com/courseIn28Mins/learn_spring/person/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/target/classes/com/courseIn28Mins/learn_spring/person/PersonConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-02/target/classes/com/courseIn28Mins/learn_spring/person/PersonRetrieval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/courseIn28Mins/learn_spring/Java_Bean_VS_POJO_VS_Spring_Bean.txt" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/src/main/java/com/courseIn28Mins/learn_spring/Java_Bean_VS_POJO_VS_Spring_Bean.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/courseIn28Mins/learn_spring/SpringBeanVSJavaBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/src/main/java/com/courseIn28Mins/learn_spring/SpringBeanVSJavaBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/courseIn28Mins/learn_spring/Spring_Container.txt" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/src/main/java/com/courseIn28Mins/learn_spring/Spring_Container.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/courseIn28Mins/learn_spring/game/AppGamingBasicJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/src/main/java/com/courseIn28Mins/learn_spring/game/AppGamingBasicJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/courseIn28Mins/learn_spring/game/ContraGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/src/main/java/com/courseIn28Mins/learn_spring/game/ContraGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/courseIn28Mins/learn_spring/game/GameRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/src/main/java/com/courseIn28Mins/learn_spring/game/GameRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/courseIn28Mins/learn_spring/game/GamingConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/src/main/java/com/courseIn28Mins/learn_spring/game/GamingConsole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/courseIn28Mins/learn_spring/game/MarioGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/src/main/java/com/courseIn28Mins/learn_spring/game/MarioGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/courseIn28Mins/learn_spring/game/PacManGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/src/main/java/com/courseIn28Mins/learn_spring/game/PacManGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/courseIn28Mins/learn_spring/game_spring/ContraGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/src/main/java/com/courseIn28Mins/learn_spring/game_spring/ContraGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/courseIn28Mins/learn_spring/game_spring/GameConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/src/main/java/com/courseIn28Mins/learn_spring/game_spring/GameConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/courseIn28Mins/learn_spring/game_spring/GameRetrieval.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/src/main/java/com/courseIn28Mins/learn_spring/game_spring/GameRetrieval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/courseIn28Mins/learn_spring/game_spring/GameRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/src/main/java/com/courseIn28Mins/learn_spring/game_spring/GameRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/courseIn28Mins/learn_spring/game_spring/GamingConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/src/main/java/com/courseIn28Mins/learn_spring/game_spring/GamingConsole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/courseIn28Mins/learn_spring/game_spring/MarioGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/src/main/java/com/courseIn28Mins/learn_spring/game_spring/MarioGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/courseIn28Mins/learn_spring/game_spring/PacManGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/src/main/java/com/courseIn28Mins/learn_spring/game_spring/PacManGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/courseIn28Mins/learn_spring/person/PersonConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/src/main/java/com/courseIn28Mins/learn_spring/person/PersonConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/courseIn28Mins/learn_spring/person/PersonRetrieval.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/src/main/java/com/courseIn28Mins/learn_spring/person/PersonRetrieval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/courseIn28Mins/learn_spring/LearnSpringApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/src/test/java/com/courseIn28Mins/learn_spring/LearnSpringApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/courseIn28Mins/learn_spring/JavaBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/target/classes/com/courseIn28Mins/learn_spring/JavaBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/courseIn28Mins/learn_spring/Pojo.class" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/target/classes/com/courseIn28Mins/learn_spring/Pojo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/courseIn28Mins/learn_spring/SpringBeanVSJavaBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/target/classes/com/courseIn28Mins/learn_spring/SpringBeanVSJavaBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/courseIn28Mins/learn_spring/game/AppGamingBasicJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/target/classes/com/courseIn28Mins/learn_spring/game/AppGamingBasicJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/courseIn28Mins/learn_spring/game/ContraGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/target/classes/com/courseIn28Mins/learn_spring/game/ContraGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/courseIn28Mins/learn_spring/game/GameRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/target/classes/com/courseIn28Mins/learn_spring/game/GameRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/courseIn28Mins/learn_spring/game/GamingConsole.class" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/target/classes/com/courseIn28Mins/learn_spring/game/GamingConsole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/courseIn28Mins/learn_spring/game/MarioGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/target/classes/com/courseIn28Mins/learn_spring/game/MarioGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/courseIn28Mins/learn_spring/game/PacManGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/target/classes/com/courseIn28Mins/learn_spring/game/PacManGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/courseIn28Mins/learn_spring/game_spring/ContraGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/target/classes/com/courseIn28Mins/learn_spring/game_spring/ContraGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/courseIn28Mins/learn_spring/game_spring/GameConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/target/classes/com/courseIn28Mins/learn_spring/game_spring/GameConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/courseIn28Mins/learn_spring/game_spring/GameRetrieval.class" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/target/classes/com/courseIn28Mins/learn_spring/game_spring/GameRetrieval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/courseIn28Mins/learn_spring/game_spring/GameRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/target/classes/com/courseIn28Mins/learn_spring/game_spring/GameRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/courseIn28Mins/learn_spring/game_spring/GamingConsole.class" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/target/classes/com/courseIn28Mins/learn_spring/game_spring/GamingConsole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/courseIn28Mins/learn_spring/game_spring/MarioGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/target/classes/com/courseIn28Mins/learn_spring/game_spring/MarioGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/courseIn28Mins/learn_spring/game_spring/PacManGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/target/classes/com/courseIn28Mins/learn_spring/game_spring/PacManGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/courseIn28Mins/learn_spring/person/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/target/classes/com/courseIn28Mins/learn_spring/person/Address.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/courseIn28Mins/learn_spring/person/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/target/classes/com/courseIn28Mins/learn_spring/person/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/courseIn28Mins/learn_spring/person/PersonConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/target/classes/com/courseIn28Mins/learn_spring/person/PersonConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/courseIn28Mins/learn_spring/person/PersonRetrieval.class" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-01/target/classes/com/courseIn28Mins/learn_spring/person/PersonRetrieval.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="reformat_code" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;advait-ravi-marathe&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:advait-ravi-marathe/learn-spring.git&quot;,
+    &quot;accountId&quot;: &quot;8ef22ada-0f75-42fa-a8c7-da14364e00a4&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2x1ZPZDS0d2TiZbyNPSR0RAjEfG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.GameRetrieval.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PersonRetrieval.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/advaitravimarathe/learn-spring/learn-spring-02&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/learn-spring-02" />
+      <recent name="$PROJECT_DIR$/.." />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/learn-spring-01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GameRetrieval">
+    <configuration name="GameRetrieval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.courseIn28Mins.learn_spring.game_spring.GameRetrieval" />
+      <module name="learn-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.courseIn28Mins.learn_spring.game_spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonRetrieval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.courseIn28Mins.learn_spring.person.PersonRetrieval" />
+      <module name="learn-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.courseIn28Mins.learn_spring.person.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GameRetrieval" />
+        <item itemvalue="Application.PersonRetrieval" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb254d88-b2c1-4b73-b420-e95024087dc4" name="Changes" comment="" />
+      <created>1747107517019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747107517019</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
