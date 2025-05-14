@@ -1,5 +1,12 @@
 package com.courseIn28Mins.learn_spring.game;
 
+import org.springframework.stereotype.Component;
+
+
+//Spring will start creating objects itself.
+
+//Tells Spring framework that it will manage this class
+@Component
 public class PacManGame implements GamingConsole {
     public void up() {
         System.out.println("Up");

@@ -1,29 +1,23 @@
 package com.courseIn28Mins.learn_spring.game;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 //Configure the things that we want Spring to manage
 @Configuration
-public class GameRetrieval {
+
+//Tells Spring package where it exists.
+@ComponentScan("com.courseIn28Mins.learn_spring.game")
+public class GameLauncher {
 
     //Step 1: Creation of object
-    @Bean
-    public GamingConsole game() {
-        return new PacManGame();
-    }
-
-    //Retrieves bean named game and passes that as a parameter
-    @Bean
-    public GameRunner gameRunner(GamingConsole game) {
-        return new GameRunner(game);
-    }
+    //This is taken care by @Component tag added in PacMan class
 
     public static void main(String[] args) {
 
         //1. Launch a spring context
-        try (var context = new AnnotationConfigApplicationContext(GameRetrieval.class)) {
+        try (var context = new AnnotationConfigApplicationContext(GameLauncher.class)) {
 
             //2. Retrieving bean's up method
             context.getBean(GamingConsole.class).up();

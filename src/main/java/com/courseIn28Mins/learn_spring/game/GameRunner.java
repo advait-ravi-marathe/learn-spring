@@ -1,5 +1,8 @@
 package com.courseIn28Mins.learn_spring.game;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class GameRunner {
     private final GamingConsole gamingConsole;
 
