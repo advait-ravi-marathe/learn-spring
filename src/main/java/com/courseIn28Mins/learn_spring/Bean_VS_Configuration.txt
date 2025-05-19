@@ -1,0 +1,30 @@
++-------------------------------------------+-----------------------------------+
+|               Configuration               |               Bean                |
+|-------------------------------------------|-----------------------------------|
+|                                           |                                   |
+|   Can be used on any Java Class           |   Used on methods in Spring       |
+|                                           |   Configuration class.            |
+|                                           |                                   |
+|-------------------------------------------|-----------------------------------|
+|                                           |                                   |
+|   Easier to use                           |   Need to program creation and    |
+|                                           |   objects and wiring of objects.  |
+|                                           |                                   |
+|-------------------------------------------|-----------------------------------|
+|                                           |                                   |
+|   Autowiring can be done by attaching     |   Autowiring can be done by       |
+|   @Autowired tag to fields, setters or    |   method calls or parameters      |
+|   constructors.                           |                                   |
+|                                           |                                   |
+|-------------------------------------------|-----------------------------------|
+|                                           |                                   |
+|   Spring framework creates beans for us   |   Beans need to be created by us  |
+|                                           |                                   |
+|-------------------------------------------|-----------------------------------|
+|                                           |                                   |
+|   Recommended for creation of beans for   |   Recommended for creation of     |
+|   your own application                    |   custom business logic or        |
+|                                           |   instantiating beans for third   |
+|                                           |   party libraries.                |
+|                                           |                                   |
++-------------------------------------------|-----------------------------------+

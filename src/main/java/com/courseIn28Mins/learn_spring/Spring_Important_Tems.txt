@@ -1,0 +1,35 @@
+ * Component:
+    Tells compiler that the given instance of class will be managed by Spring.
+
+ * Dependency:
+    A class on which a particular class is dependent on for implementation.
+
+ * Component Scan:
+    Tells Spring where to search for packages. If package name not mentioned,
+    it will look for class in the current package.
+
+ * Dependency Injection -
+    Identify beans, their dependencies and wire them together. It provides IOC
+    (Inversion of Control) as now framework is taking care of object creation,
+    in contrary where usually users creates the object.
+
+ * Spring Beans -
+    Any object which is manged by Spring
+
+ * IoC Container -
+    Manages the lifecycle of beans and dependencies.
+
+    Types of IoC container -
+        * ApplucationContext - Complex
+        * BeanFactory - Simpler features, rarely used.
+
+ * Autowiring -
+    Process of wiring dependencies for a Spring Bean.
+
+
+
+
+
+
+
+
