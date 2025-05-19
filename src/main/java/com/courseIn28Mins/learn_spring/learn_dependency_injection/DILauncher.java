@@ -1,6 +1,5 @@
 package com.courseIn28Mins.learn_spring.learn_dependency_injection;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
@@ -26,7 +25,7 @@ import java.util.Arrays;
 */
 
 @Component
-class MyBusiness{
+class MyBusiness {
 
     FirstDependency firstDependency;
     SecondDependency secondDependency;
