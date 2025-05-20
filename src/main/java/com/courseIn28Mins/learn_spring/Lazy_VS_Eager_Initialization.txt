@@ -1,0 +1,32 @@
++-------------------------------------------+-----------------------------------+
+|               Lazy                        |               Eager               |
+|-------------------------------------------|-----------------------------------|
+|                                           |                                   |
+|   Bean initialized when it is first used  |   Bean initialized at startup of  |
+|                                           |   the application.                |
+|                                           |                                   |
+|-------------------------------------------|-----------------------------------|
+|                                           |                                   |
+|   Not default, need to explicitly         |   Default                         |
+|   mention using @Lazy tag.                |                                   |
+|                                           |                                   |
+|-------------------------------------------|-----------------------------------|
+|                                           |                                   |
+|   Errors will result in run-time          |   Errors will prevent app from    |
+|   exceptions.                             |   starting up.                    |
+|                                           |                                   |
+|-------------------------------------------|-----------------------------------|
+|                                           |                                   |
+|   Rarely used                             |   Frequently used                 |
+|                                           |                                   |
+|-------------------------------------------|-----------------------------------|
+|                                           |                                   |
+|   Memory consumption is done only when    |   All beans are initialized       |
+|   bean is initialized.                    |   during start up.                |
+|                                           |                                   |
+|-------------------------------------------|-----------------------------------|
+|                                           |                                   |
+|   Recommended for beans which are rarely  |   Most of your beans.             |
+|   used.                                   |                                   |
+|                                           |                                   |
++-------------------------------------------|-----------------------------------+
