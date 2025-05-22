@@ -1,4 +1,4 @@
-package com.courseIn28Mins.learn_spring.learn_dependency_injection;
+package com.courseIn28Mins.learn_spring.dependency_injection;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;

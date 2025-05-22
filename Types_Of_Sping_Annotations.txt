@@ -1,0 +1,21 @@
+- @Component - Generic annotation applicable for any class.
+
+    * Base for all Spring Stereotype Annotations.
+
+    * Specializations of @Component:
+
+        ~ @Service - Indicates that an annotated class has business logic.
+
+        ~ @Controller - Indicates that an annotated class is a "Controller"
+                        (e.g. Web Controller). It is used to define
+                        controllers in your web applications and REST API.
+
+        ~ @Repository - Indicates that an annotated class is used to retrieve
+                        and/or manipulate data in database.
+
+- Always try to use the most specific annotation possible. That is because by
+  using the same, we are giving more info to the framework about our intentions.
+
+- Using the most specific annotation also helps to use Aspect Oriented Programming
+  (AOP) at a later point to add additional behaviour. For @Repository, Spring automatically
+  wires in JDBC Exception translation features.

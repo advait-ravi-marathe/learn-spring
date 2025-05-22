@@ -1,12 +1,10 @@
-package com.courseIn28Mins.learn_spring.learn_lazy_initialization;
+package com.courseIn28Mins.learn_spring.lazy_initialization;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Lazy;
 import org.springframework.stereotype.Component;
-
-import java.util.Arrays;
 
 /*
     By default, Eager initialization is done. I.e. the class "FirstField" gets
@@ -47,9 +45,9 @@ class Member {
 
 @Configuration
 @ComponentScan
-public class LazyInitialization {
+public class LazyInitializationLauncher {
     public static void main(String[] args) {
-        try (var context = new AnnotationConfigApplicationContext(LazyInitialization.class)) {
+        try (var context = new AnnotationConfigApplicationContext(LazyInitializationLauncher.class)) {
             System.out.println("Initialization of context executed");
 
             //Class member gets initialized before executing this method.

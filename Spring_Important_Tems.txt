@@ -20,7 +20,7 @@
     Manages the lifecycle of beans and dependencies.
 
     Types of IoC container -
-        * ApplucationContext - Complex
+        * ApplicationContext - Complex
         * BeanFactory - Simpler features, rarely used.
 
  * Autowiring -

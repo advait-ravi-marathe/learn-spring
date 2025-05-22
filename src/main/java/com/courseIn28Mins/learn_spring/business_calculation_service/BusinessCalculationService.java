@@ -1,10 +1,10 @@
 package com.courseIn28Mins.learn_spring.business_calculation_service;
 
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
 import java.util.Arrays;
 
-@Component
+@Service
 public class BusinessCalculationService {
 
     private final DataService dataService;

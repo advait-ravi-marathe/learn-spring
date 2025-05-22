@@ -17,9 +17,7 @@
 |   constructors.                           |                                   |
 |                                           |                                   |
 |-------------------------------------------|-----------------------------------|
-|                                           |                                   |
 |   Spring framework creates beans for us   |   Beans need to be created by us  |
-|                                           |                                   |
 |-------------------------------------------|-----------------------------------|
 |                                           |                                   |
 |   Recommended for creation of beans for   |   Recommended for creation of     |

@@ -16,9 +16,7 @@
 |   exceptions.                             |   starting up.                    |
 |                                           |                                   |
 |-------------------------------------------|-----------------------------------|
-|                                           |                                   |
 |   Rarely used                             |   Frequently used                 |
-|                                           |                                   |
 |-------------------------------------------|-----------------------------------|
 |                                           |                                   |
 |   Memory consumption is done only when    |   All beans are initialized       |

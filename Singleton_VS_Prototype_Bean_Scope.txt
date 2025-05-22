@@ -1,0 +1,19 @@
++-------------------------------------------+-----------------------------------+
+|               Singleton                   |               Prototype           |
+|-------------------------------------------|-----------------------------------|
+|                                           |                                   |
+|   Bean instance is created once per       |   Bean instance is created        |
+|   Spring IoC container                    |   everytime Bean is referred to.  |
+|                                           |                                   |
+|-------------------------------------------|-----------------------------------|
+|                                           |                                   |
+|                                           |   Need to explicitly mention by   |
+|   Default                                 |   @Scope(value =                  |
+|                                           |   ConfigurableBeanFactory.        |
+|                                           |   SCOPE_PROTOTYPE)                |
+|                                           |                                   |
+|-------------------------------------------|-----------------------------------|
+|   Frequently used                         |   Rarely used                     |
+|-------------------------------------------|-----------------------------------|
+|   Used for stateless objects              |   Used for stateful objects       |
++-------------------------------------------|-----------------------------------+
